@@ -1,0 +1,1 @@
+# avgrage-number-function-in-javascript
